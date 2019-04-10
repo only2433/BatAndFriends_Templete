@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "756975820703",
+    "firebase_url": "https://storybook-batandfreinds.firebaseio.com",
+    "project_id": "storybook-batandfreinds",
+    "storage_bucket": "storybook-batandfreinds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756975820703:android:24bc9412a1a5eaa5",
+        "android_client_info": {
+          "package_name": "com.littlefox.storybook.batandfriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756975820703-po2ah67gkl601ii4u0ka2dkv2sp07bek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALVGu-mB6vSheVbt5o9U8TgJLq6KruGgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756975820703-po2ah67gkl601ii4u0ka2dkv2sp07bek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
