@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Apr 10 16:56:30 KST 2019
+#Wed Apr 10 17:09:16 KST 2019
 7.path=vibrator/test_vibrator.json
 2.base=D\:\\android_studio_workspace\\BatAndFriends_Templete\\batAndFriends_Templete\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
 5.set=ASSET
